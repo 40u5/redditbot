@@ -1,0 +1,7 @@
+selenium
+praw
+Pillow
+pyautogui
+gtts
+moviepy
+python-dotenv

@@ -1,0 +1,16 @@
+# Environment files
+.env
+*.env
+
+# Ignore contents of output folders but keep the folder structure
+output/audio/*
+!output/audio/.gitkeep
+
+output/images/*
+!output/images/.gitkeep
+
+output/video/*
+!output/video/.gitkeep
+
+__pycache__/*
+*/__pycache__/*
